@@ -25,7 +25,7 @@ The application is built using a decoupled, multi-tiered architecture to ensure 
 │   Data Layer    │ ───> │  Processing Layer  │ ───> │ Presentation Layer │ ───> │ Interface Layer │
 │  (Neo4j Graph)  │      │     (NetworkX)     │      │   (Bokeh Server)   │      │ (Web Dashboard) │
 └─────────────────┘      └────────────────────┘      └────────────────────┘      └─────────────────┘
-
+```
 ---
 
 ## 🖼️ Screenshot
