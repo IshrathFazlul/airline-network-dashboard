@@ -32,4 +32,3 @@ The application is built using a decoupled, multi-tiered architecture to ensure 
 
 ![Airline Network Dashboard](screenshot.png)
 
-> If the image does not appear, make sure the file is named `screenshot.png` and is committed in the same folder as `README.md`.
