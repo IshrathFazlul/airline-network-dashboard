@@ -25,3 +25,15 @@ The application is built using a decoupled, multi-tiered architecture to ensure 
 │   Data Layer    │ ───> │  Processing Layer  │ ───> │ Presentation Layer │ ───> │ Interface Layer │
 │  (Neo4j Graph)  │      │     (NetworkX)     │      │   (Bokeh Server)   │      │ (Web Dashboard) │
 └─────────────────┘      └────────────────────┘      └────────────────────┘      └─────────────────┘
+
+---
+
+## 🖼️ Screenshot
+
+Add a screenshot image of the dashboard to the repository root, for example `screenshot.png`, then reference it here:
+
+```md
+![Airline Network Dashboard](screenshot.png)
+```
+
+If you save the screenshot file next to `README.md`, the image will display automatically on GitHub.
